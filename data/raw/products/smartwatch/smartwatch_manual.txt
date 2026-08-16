@@ -1,0 +1,85 @@
+TECHNOVA SMARTWATCH
+USER MANUAL
+
+Product Name: TechNova SmartWatch
+Model: TN-W1
+
+1. PRODUCT OVERVIEW
+
+The TechNova SmartWatch is a wearable device designed
+for fitness tracking, notifications, time management,
+and everyday activity monitoring.
+
+The device includes a touchscreen display, heart-rate
+monitor, step counter, Bluetooth connectivity, and
+rechargeable battery.
+
+2. GETTING STARTED
+
+To turn on the SmartWatch, press and hold the power
+button for approximately 3 seconds.
+
+To turn off the SmartWatch, press and hold the power
+button and select the Power Off option on the screen.
+
+3. CHARGING
+
+The TechNova SmartWatch uses a magnetic charging cable.
+
+To charge the device:
+
+1. Connect the charging cable to a compatible power adapter.
+2. Align the magnetic connector with the charging contacts
+   on the back of the SmartWatch.
+3. Ensure that the charging contacts are clean and dry.
+4. Allow the device to charge.
+
+A full charge may take approximately 2 hours.
+
+4. BLUETOOTH CONNECTION
+
+The SmartWatch connects to a smartphone through Bluetooth.
+
+To connect:
+
+1. Turn on Bluetooth on your smartphone.
+2. Open the TechNova mobile application.
+3. Select Add Device.
+4. Select TechNova SmartWatch.
+5. Follow the instructions shown in the application.
+
+5. RESETTING THE DEVICE
+
+To restart the SmartWatch, press and hold the power button
+for approximately 10 seconds.
+
+A factory reset can be performed through:
+
+Settings → System → Factory Reset
+
+A factory reset removes locally stored data from the device.
+
+6. BATTERY
+
+The SmartWatch contains a rechargeable lithium-ion battery.
+
+Battery life depends on usage, screen brightness,
+notifications, Bluetooth usage, and other settings.
+
+For better battery life, reduce screen brightness and
+disable unnecessary notifications.
+
+7. SAFETY
+
+Do not expose the SmartWatch or charging connector to
+excessive heat.
+
+Keep the charging connector clean and dry.
+
+Do not attempt to open or repair the battery yourself.
+
+8. CUSTOMER SUPPORT
+
+If the SmartWatch continues to malfunction after following
+the troubleshooting instructions, contact TechNova Customer
+Support for further assistance.

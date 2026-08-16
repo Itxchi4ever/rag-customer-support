@@ -1,0 +1,342 @@
+[
+  {
+    "text": "TECHNOVA GENERAL FAQ\n\nQ1. How long is the TechNova product warranty?\n\nTechNova products include a limited 2-year warranty from\nthe date of purchase.\n\nQ2. How long do I have to request a return?\n\nEligible products can generally be returned within 14 days\nof delivery.\n\nQ3. How long does a refund take?\n\nApproved refunds are generally processed within 5-7 business\ndays after the return is approved.\n\nQ4. How long does standard shipping take?",
+    "metadata": {
+      "source": "general_faq.txt",
+      "chunk_id": 0,
+      "product": "general",
+      "document_type": "faq"
+    }
+  },
+  {
+    "text": "Q4. How long does standard shipping take?\n\nStandard delivery generally takes 3-5 business days after\nthe order has been dispatched.\n\nQ5. How do I contact customer support?\n\nCustomers can contact TechNova Customer Support for\nassistance with product, warranty, return, refund, shipping,\nand technical issues.\n\nQ6. Is accidental damage covered by warranty?\n\nAccidental damage is not covered under the standard\nTechNova warranty.\n\nQ7. Can I replace a defective product?",
+    "metadata": {
+      "source": "general_faq.txt",
+      "chunk_id": 1,
+      "product": "general",
+      "document_type": "faq"
+    }
+  },
+  {
+    "text": "Q7. Can I replace a defective product?\n\nEligible defective products may qualify for replacement\nafter inspection.\n\nQ8. How do I reset my SmartWatch?\n\nA SmartWatch can be restarted by pressing and holding the\npower button for approximately 10 seconds. A factory reset\nis available through Settings → System → Factory Reset.\n\nQ9. My SmartWatch is not charging. What should I do?",
+    "metadata": {
+      "source": "general_faq.txt",
+      "chunk_id": 2,
+      "product": "general",
+      "document_type": "faq"
+    }
+  },
+  {
+    "text": "Check the charging cable, magnetic alignment, and charging\ncontacts. Clean the contacts and try another compatible\npower adapter.\n\nQ10. My TechBuds are not connecting.\n\nCheck Bluetooth, keep the earbuds close to the smartphone,\nand try pairing them again. If necessary, remove the earbuds\nfrom Bluetooth settings and pair them again.",
+    "metadata": {
+      "source": "general_faq.txt",
+      "chunk_id": 3,
+      "product": "general",
+      "document_type": "faq"
+    }
+  },
+  {
+    "text": "TECHNOVA REFUND POLICY\n\n1. REFUND ELIGIBILITY\n\nCustomers may request a refund for eligible products\nwithin 14 days of delivery.\n\n2. CONDITION\n\nThe product should be returned in reasonable condition\nwith its original accessories and packaging where possible.\n\n3. REFUND PROCESS\n\nAfter receiving and inspecting the returned product,\nTechNova will process the approved refund.\n\n4. REFUND TIME\n\nApproved refunds are generally processed within 5-7\nbusiness days after the return is approved.",
+    "metadata": {
+      "source": "refund_policy.txt",
+      "chunk_id": 0,
+      "product": "general",
+      "document_type": "policy",
+      "policy_type": "refund"
+    }
+  },
+  {
+    "text": "5. NON-ELIGIBLE ITEMS\n\nProducts damaged through misuse or unauthorized modification\nmay not qualify for a refund.\n\n6. CUSTOMER SUPPORT\n\nContact TechNova Customer Support if you need assistance\nwith a refund request.",
+    "metadata": {
+      "source": "refund_policy.txt",
+      "chunk_id": 1,
+      "product": "general",
+      "document_type": "policy",
+      "policy_type": "refund"
+    }
+  },
+  {
+    "text": "TECHNOVA REPLACEMENT POLICY\n\nCustomers may request replacement of an eligible defective\nproduct.\n\nA replacement request should be submitted within the\napplicable warranty or return period.\n\nTechNova may inspect the product before approving a\nreplacement.\n\nIf the product is confirmed to have a manufacturing defect,\nTechNova may provide a replacement according to company\npolicy.\n\nDamage caused by misuse, unauthorized repairs, or accidents\nmay not qualify for replacement.",
+    "metadata": {
+      "source": "replacement_policy.txt",
+      "chunk_id": 0,
+      "product": "general",
+      "document_type": "policy",
+      "policy_type": "replacement"
+    }
+  },
+  {
+    "text": "Contact TechNova Customer Support to start a replacement\nrequest.",
+    "metadata": {
+      "source": "replacement_policy.txt",
+      "chunk_id": 1,
+      "product": "general",
+      "document_type": "policy",
+      "policy_type": "replacement"
+    }
+  },
+  {
+    "text": "TECHNOVA RETURN POLICY\n\nCustomers may request a return within 14 days of delivery\nfor eligible products.\n\nThe product should be returned with its accessories and\noriginal packaging where possible.\n\nThe returned product may be inspected before the return\nis approved.\n\nProducts damaged through misuse may not be eligible for\nreturn.\n\nCustomers should contact TechNova Customer Support before\nsending a product back.\n\nReturn instructions will be provided after the request\nis reviewed.",
+    "metadata": {
+      "source": "return_policy.txt",
+      "chunk_id": 0,
+      "product": "general",
+      "document_type": "policy",
+      "policy_type": "return"
+    }
+  },
+  {
+    "text": "TECHNOVA SHIPPING POLICY\n\n1. STANDARD SHIPPING\n\nStandard delivery generally takes 3-5 business days after\nthe order has been dispatched.\n\n2. ORDER PROCESSING\n\nOrders are generally processed within 1-2 business days.\n\n3. ORDER TRACKING\n\nCustomers can track an order using the tracking information\nprovided after the order has been dispatched.\n\n4. DELIVERY DELAYS\n\nDelivery times may be affected by weather, holidays,\ntransportation problems, or other circumstances outside\nTechNova's control.",
+    "metadata": {
+      "source": "shipping_policy.txt",
+      "chunk_id": 0,
+      "product": "general",
+      "document_type": "policy",
+      "policy_type": "shipping"
+    }
+  },
+  {
+    "text": "5. SHIPPING SUPPORT\n\nCustomers should contact TechNova Customer Support if a\npackage has not arrived within the expected delivery period.",
+    "metadata": {
+      "source": "shipping_policy.txt",
+      "chunk_id": 1,
+      "product": "general",
+      "document_type": "policy",
+      "policy_type": "shipping"
+    }
+  },
+  {
+    "text": "TECHNOVA WARRANTY POLICY\n\n1. WARRANTY PERIOD\n\nTechNova products include a limited 2-year warranty\nfrom the date of purchase.\n\n2. WARRANTY COVERAGE\n\nThe warranty covers manufacturing defects and hardware\nfailures that occur during normal use.\n\n3. NOT COVERED\n\nThe warranty does not cover:\n\n- Accidental damage.\n- Liquid damage.\n- Unauthorized repairs.\n- Physical damage caused by misuse.\n- Normal cosmetic wear.\n\n4. WARRANTY CLAIM",
+    "metadata": {
+      "source": "warranty_policies.txt",
+      "chunk_id": 0,
+      "product": "general",
+      "document_type": "general"
+    }
+  },
+  {
+    "text": "4. WARRANTY CLAIM\n\nTo make a warranty claim, the customer must provide\nproof of purchase and product details.\n\nTechNova may inspect the product before approving\na warranty claim.\n\n5. SUPPORT\n\nCustomers can contact TechNova Customer Support for\nassistance with warranty claims.",
+    "metadata": {
+      "source": "warranty_policies.txt",
+      "chunk_id": 1,
+      "product": "general",
+      "document_type": "general"
+    }
+  },
+  {
+    "text": "TECHNOVA SMARTWATCH\nUSER MANUAL\n\nProduct Name: TechNova SmartWatch\nModel: TN-W1\n\n1. PRODUCT OVERVIEW\n\nThe TechNova SmartWatch is a wearable device designed\nfor fitness tracking, notifications, time management,\nand everyday activity monitoring.\n\nThe device includes a touchscreen display, heart-rate\nmonitor, step counter, Bluetooth connectivity, and\nrechargeable battery.\n\n2. GETTING STARTED\n\nTo turn on the SmartWatch, press and hold the power\nbutton for approximately 3 seconds.",
+    "metadata": {
+      "source": "smartwatch_manual.txt",
+      "chunk_id": 0,
+      "product": "smartwatch",
+      "document_type": "manual"
+    }
+  },
+  {
+    "text": "To turn off the SmartWatch, press and hold the power\nbutton and select the Power Off option on the screen.\n\n3. CHARGING\n\nThe TechNova SmartWatch uses a magnetic charging cable.\n\nTo charge the device:\n\n1. Connect the charging cable to a compatible power adapter.\n2. Align the magnetic connector with the charging contacts\non the back of the SmartWatch.\n3. Ensure that the charging contacts are clean and dry.\n4. Allow the device to charge.\n\nA full charge may take approximately 2 hours.",
+    "metadata": {
+      "source": "smartwatch_manual.txt",
+      "chunk_id": 1,
+      "product": "smartwatch",
+      "document_type": "manual"
+    }
+  },
+  {
+    "text": "A full charge may take approximately 2 hours.\n\n4. BLUETOOTH CONNECTION\n\nThe SmartWatch connects to a smartphone through Bluetooth.\n\nTo connect:\n\n1. Turn on Bluetooth on your smartphone.\n2. Open the TechNova mobile application.\n3. Select Add Device.\n4. Select TechNova SmartWatch.\n5. Follow the instructions shown in the application.\n\n5. RESETTING THE DEVICE\n\nTo restart the SmartWatch, press and hold the power button\nfor approximately 10 seconds.\n\nA factory reset can be performed through:",
+    "metadata": {
+      "source": "smartwatch_manual.txt",
+      "chunk_id": 2,
+      "product": "smartwatch",
+      "document_type": "manual"
+    }
+  },
+  {
+    "text": "A factory reset can be performed through:\n\nSettings → System → Factory Reset\n\nA factory reset removes locally stored data from the device.\n\n6. BATTERY\n\nThe SmartWatch contains a rechargeable lithium-ion battery.\n\nBattery life depends on usage, screen brightness,\nnotifications, Bluetooth usage, and other settings.\n\nFor better battery life, reduce screen brightness and\ndisable unnecessary notifications.\n\n7. SAFETY\n\nDo not expose the SmartWatch or charging connector to\nexcessive heat.",
+    "metadata": {
+      "source": "smartwatch_manual.txt",
+      "chunk_id": 3,
+      "product": "smartwatch",
+      "document_type": "manual"
+    }
+  },
+  {
+    "text": "Keep the charging connector clean and dry.\n\nDo not attempt to open or repair the battery yourself.\n\n8. CUSTOMER SUPPORT\n\nIf the SmartWatch continues to malfunction after following\nthe troubleshooting instructions, contact TechNova Customer\nSupport for further assistance.",
+    "metadata": {
+      "source": "smartwatch_manual.txt",
+      "chunk_id": 4,
+      "product": "smartwatch",
+      "document_type": "manual"
+    }
+  },
+  {
+    "text": "TECHNOVA SMARTWATCH\nTROUBLESHOOTING GUIDE\n\n1. SMARTWATCH DOES NOT TURN ON\n\nIf the SmartWatch does not turn on:\n\n1. Press and hold the power button for 10 seconds.\n2. Connect the SmartWatch to its magnetic charger.\n3. Allow the device to charge for at least 30 minutes.\n4. Try turning the device on again.\n\nIf the SmartWatch still does not turn on, contact\nTechNova Customer Support.\n\n2. SMARTWATCH IS NOT CHARGING\n\nIf the SmartWatch is not charging:",
+    "metadata": {
+      "source": "smartwatch_troubleshooting.txt",
+      "chunk_id": 0,
+      "product": "smartwatch",
+      "document_type": "troubleshooting"
+    }
+  },
+  {
+    "text": "If the SmartWatch is not charging:\n\n1. Check that the charging cable is connected correctly.\n2. Make sure the magnetic connector is aligned properly.\n3. Clean the charging contacts with a dry, soft cloth.\n4. Try a different compatible power adapter.\n5. Allow the device to charge for at least 30 minutes.\n\nIf the device still does not charge, contact TechNova\nCustomer Support.\n\n3. BLUETOOTH CONNECTION PROBLEM\n\nIf the SmartWatch cannot connect to your smartphone:",
+    "metadata": {
+      "source": "smartwatch_troubleshooting.txt",
+      "chunk_id": 1,
+      "product": "smartwatch",
+      "document_type": "troubleshooting"
+    }
+  },
+  {
+    "text": "1. Make sure Bluetooth is enabled on your smartphone.\n2. Keep the SmartWatch within Bluetooth range.\n3. Restart Bluetooth on your smartphone.\n4. Restart the SmartWatch.\n5. Open the TechNova mobile application and try pairing\nthe device again.\n\n4. BATTERY DRAINS QUICKLY\n\nIf the battery drains faster than expected:\n\n1. Reduce screen brightness.\n2. Disable unnecessary notifications.\n3. Reduce continuous heart-rate monitoring if not required.\n4. Ensure that the SmartWatch software is up to date.",
+    "metadata": {
+      "source": "smartwatch_troubleshooting.txt",
+      "chunk_id": 2,
+      "product": "smartwatch",
+      "document_type": "troubleshooting"
+    }
+  },
+  {
+    "text": "5. FACTORY RESET\n\nIf other troubleshooting methods do not resolve the issue,\na factory reset may be performed through:\n\nSettings → System → Factory Reset\n\nRemember that a factory reset removes locally stored data.\n\n6. WHEN TO CONTACT SUPPORT\n\nContact TechNova Customer Support if:",
+    "metadata": {
+      "source": "smartwatch_troubleshooting.txt",
+      "chunk_id": 3,
+      "product": "smartwatch",
+      "document_type": "troubleshooting"
+    }
+  },
+  {
+    "text": "Contact TechNova Customer Support if:\n\n- The SmartWatch does not turn on after charging.\n- The device does not charge after trying another compatible\ncharger.\n- Bluetooth pairing continues to fail.\n- The screen is damaged.\n- The device becomes unusually hot.",
+    "metadata": {
+      "source": "smartwatch_troubleshooting.txt",
+      "chunk_id": 4,
+      "product": "smartwatch",
+      "document_type": "troubleshooting"
+    }
+  },
+  {
+    "text": "TECHNOVA TECHBOOK\nUSER MANUAL\n\nProduct Name: TechNova TechBook\nModel: TN-L1\n\n1. PRODUCT OVERVIEW\n\nThe TechNova TechBook is a laptop designed for everyday\ncomputing, productivity, education, and entertainment.\n\n2. GETTING STARTED\n\nPress the power button to turn on the laptop.\n\nFollow the on-screen instructions to complete the initial\nsystem setup.\n\n3. CHARGING\n\nConnect the supplied power adapter to the charging port.\n\nThe charging indicator shows the charging status.",
+    "metadata": {
+      "source": "techbook_manual.txt",
+      "chunk_id": 0,
+      "product": "techbook",
+      "document_type": "manual"
+    }
+  },
+  {
+    "text": "Use the supplied or compatible TechNova power adapter.\n\n4. BATTERY\n\nBattery life depends on screen brightness, applications,\nnetwork connections, and system settings.\n\nFor improved battery life:\n\n- Reduce screen brightness.\n- Close unnecessary applications.\n- Disable unused wireless connections.\n- Use battery-saving mode when appropriate.\n\n5. CONNECTIVITY\n\nThe TechBook supports Wi-Fi and Bluetooth connectivity.\n\nTo connect to Wi-Fi:",
+    "metadata": {
+      "source": "techbook_manual.txt",
+      "chunk_id": 1,
+      "product": "techbook",
+      "document_type": "manual"
+    }
+  },
+  {
+    "text": "To connect to Wi-Fi:\n\n1. Open network settings.\n2. Select the desired Wi-Fi network.\n3. Enter the network password.\n4. Select Connect.\n\n6. SYSTEM RESTART\n\nTo restart the TechBook:\n\n1. Open the system menu.\n2. Select Power.\n3. Select Restart.\n\n7. CUSTOMER SUPPORT\n\nContact TechNova Customer Support if the laptop continues\nto malfunction after following the troubleshooting guide.",
+    "metadata": {
+      "source": "techbook_manual.txt",
+      "chunk_id": 2,
+      "product": "techbook",
+      "document_type": "manual"
+    }
+  },
+  {
+    "text": "TECHNOVA TECHBOOK\nTROUBLESHOOTING GUIDE\n\n1. LAPTOP DOES NOT TURN ON\n\nIf the TechBook does not turn on:\n\n1. Connect the power adapter.\n2. Check that the charging indicator is active.\n3. Allow the laptop to charge for at least 30 minutes.\n4. Press and hold the power button for 10 seconds.\n5. Try turning the laptop on again.\n\nIf the laptop still does not turn on, contact TechNova\nCustomer Support.\n\n2. LAPTOP IS RUNNING SLOWLY\n\nTry the following:",
+    "metadata": {
+      "source": "techbook_troubleshooting.txt",
+      "chunk_id": 0,
+      "product": "techbook",
+      "document_type": "troubleshooting"
+    }
+  },
+  {
+    "text": "2. LAPTOP IS RUNNING SLOWLY\n\nTry the following:\n\n1. Close unnecessary applications.\n2. Restart the laptop.\n3. Check available storage.\n4. Install available system updates.\n5. Restart the laptop after updates are installed.\n\n3. WI-FI IS NOT WORKING\n\n1. Check that Wi-Fi is enabled.\n2. Restart Wi-Fi.\n3. Restart the laptop.\n4. Restart the wireless router.\n5. Try connecting to another network.\n\n4. BATTERY DRAINS QUICKLY\n\nReduce screen brightness and close applications that\nare not required.",
+    "metadata": {
+      "source": "techbook_troubleshooting.txt",
+      "chunk_id": 1,
+      "product": "techbook",
+      "document_type": "troubleshooting"
+    }
+  },
+  {
+    "text": "Enable battery-saving mode.\n\nIf battery performance remains unusually low, contact\nTechNova Customer Support.\n\n5. LAPTOP IS OVERHEATING\n\nEnsure that ventilation openings are not blocked.\n\nUse the laptop on a hard, flat surface.\n\nClose applications that use significant processing power.\n\nIf the laptop becomes unusually hot, stop using it and\ncontact TechNova Customer Support.",
+    "metadata": {
+      "source": "techbook_troubleshooting.txt",
+      "chunk_id": 2,
+      "product": "techbook",
+      "document_type": "troubleshooting"
+    }
+  },
+  {
+    "text": "TECHNOVA TECHBUDS\nUSER MANUAL\n\nProduct Name: TechNova TechBuds\nModel: TN-B1\n\n1. PRODUCT OVERVIEW\n\nTechNova TechBuds are wireless earbuds designed for\nmusic, calls, and everyday use.\n\nThe earbuds support Bluetooth connectivity and include\na charging case.\n\n2. GETTING STARTED\n\nPlace both earbuds inside the charging case.\n\nOpen the charging case and remove the earbuds.\n\nThe earbuds automatically enter pairing mode when used\nfor the first time.\n\n3. BLUETOOTH PAIRING\n\nTo connect the TechBuds:",
+    "metadata": {
+      "source": "techbuds_manual.txt",
+      "chunk_id": 0,
+      "product": "techbuds",
+      "document_type": "manual"
+    }
+  },
+  {
+    "text": "3. BLUETOOTH PAIRING\n\nTo connect the TechBuds:\n\n1. Open the charging case.\n2. Enable Bluetooth on your smartphone.\n3. Open Bluetooth settings.\n4. Select \"TechNova TechBuds\".\n5. Confirm the pairing request.\n\nOnce paired, the earbuds can automatically reconnect\nto the previously connected device.\n\n4. CHARGING\n\nPlace both earbuds inside the charging case.\n\nConnect the charging case to a compatible USB charging\nadapter using the supplied charging cable.",
+    "metadata": {
+      "source": "techbuds_manual.txt",
+      "chunk_id": 1,
+      "product": "techbuds",
+      "document_type": "manual"
+    }
+  },
+  {
+    "text": "A complete charge may take approximately 1.5 hours.\n\n5. CONTROLS\n\nTap the right earbud once to play or pause media.\n\nDouble-tap the right earbud to play the next track.\n\nTap the left earbud once to answer an incoming call.\n\n6. BATTERY\n\nBattery life depends on volume level, usage, Bluetooth\nconnection, and other settings.\n\nKeep the earbuds inside the charging case when they\nare not being used.\n\n7. SAFETY\n\nKeep the earbuds and charging case away from excessive\nmoisture.",
+    "metadata": {
+      "source": "techbuds_manual.txt",
+      "chunk_id": 2,
+      "product": "techbuds",
+      "document_type": "manual"
+    }
+  },
+  {
+    "text": "Do not attempt to open or repair the earbuds yourself.\n\n8. CUSTOMER SUPPORT\n\nContact TechNova Customer Support if the earbuds continue\nto malfunction after following the troubleshooting guide.",
+    "metadata": {
+      "source": "techbuds_manual.txt",
+      "chunk_id": 3,
+      "product": "techbuds",
+      "document_type": "manual"
+    }
+  },
+  {
+    "text": "TECHNOVA TECHBUDS\nTROUBLESHOOTING GUIDE\n\n1. TECHBUDS ARE NOT CONNECTING\n\nIf the TechBuds do not connect:\n\n1. Make sure Bluetooth is enabled.\n2. Keep the earbuds close to the smartphone.\n3. Place both earbuds inside the charging case.\n4. Remove the earbuds and try pairing again.\n5. Restart Bluetooth on the smartphone.\n\nIf the problem continues, remove \"TechNova TechBuds\"\nfrom the phone's Bluetooth settings and pair them again.\n\n2. ONLY ONE EARBUD IS WORKING",
+    "metadata": {
+      "source": "techbuds_troubleshooting.txt",
+      "chunk_id": 0,
+      "product": "techbuds",
+      "document_type": "troubleshooting"
+    }
+  },
+  {
+    "text": "2. ONLY ONE EARBUD IS WORKING\n\nPlace both earbuds inside the charging case.\n\nWait for approximately 10 seconds and remove them again.\n\nMake sure both earbuds have sufficient battery.\n\nIf the issue continues, reset the earbuds and pair them\nwith the smartphone again.\n\n3. EARBUDS ARE NOT CHARGING\n\nCheck that:\n\n- The earbuds are correctly placed in the charging case.\n- The charging contacts are clean.\n- The charging case has sufficient battery.\n- The charging cable is properly connected.",
+    "metadata": {
+      "source": "techbuds_troubleshooting.txt",
+      "chunk_id": 1,
+      "product": "techbuds",
+      "document_type": "troubleshooting"
+    }
+  },
+  {
+    "text": "4. SOUND QUALITY IS POOR\n\nCheck the following:\n\n1. Increase the smartphone volume.\n2. Make sure the earbuds are positioned correctly.\n3. Keep the smartphone within Bluetooth range.\n4. Disconnect and reconnect the earbuds.\n\n5. RESETTING THE TECHBUDS\n\nTo reset the TechBuds:\n\n1. Place both earbuds inside the charging case.\n2. Keep the case open.\n3. Press and hold the case button for approximately\n10 seconds.\n4. The indicator will flash to confirm the reset.",
+    "metadata": {
+      "source": "techbuds_troubleshooting.txt",
+      "chunk_id": 2,
+      "product": "techbuds",
+      "document_type": "troubleshooting"
+    }
+  },
+  {
+    "text": "After resetting, pair the TechBuds with the smartphone again.\n\n6. WHEN TO CONTACT SUPPORT\n\nContact TechNova Customer Support if:\n\n- An earbud does not turn on.\n- The earbuds do not charge.\n- Bluetooth pairing continues to fail.\n- The charging case does not charge.\n- The device becomes unusually hot.",
+    "metadata": {
+      "source": "techbuds_troubleshooting.txt",
+      "chunk_id": 3,
+      "product": "techbuds",
+      "document_type": "troubleshooting"
+    }
+  }
+]

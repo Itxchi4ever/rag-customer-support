@@ -1,0 +1,11 @@
+pymupdf==1.28.2
+python-dotenv==1.2.2
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+langchain-text-splitters
+huggingface-hub
+python-dotenv
+rank-bm25x
+fastapi
+uvicorn

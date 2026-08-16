@@ -1,0 +1,61 @@
+TECHNOVA TECHBOOK
+USER MANUAL
+
+Product Name: TechNova TechBook
+Model: TN-L1
+
+1. PRODUCT OVERVIEW
+
+The TechNova TechBook is a laptop designed for everyday
+computing, productivity, education, and entertainment.
+
+2. GETTING STARTED
+
+Press the power button to turn on the laptop.
+
+Follow the on-screen instructions to complete the initial
+system setup.
+
+3. CHARGING
+
+Connect the supplied power adapter to the charging port.
+
+The charging indicator shows the charging status.
+
+Use the supplied or compatible TechNova power adapter.
+
+4. BATTERY
+
+Battery life depends on screen brightness, applications,
+network connections, and system settings.
+
+For improved battery life:
+
+- Reduce screen brightness.
+- Close unnecessary applications.
+- Disable unused wireless connections.
+- Use battery-saving mode when appropriate.
+
+5. CONNECTIVITY
+
+The TechBook supports Wi-Fi and Bluetooth connectivity.
+
+To connect to Wi-Fi:
+
+1. Open network settings.
+2. Select the desired Wi-Fi network.
+3. Enter the network password.
+4. Select Connect.
+
+6. SYSTEM RESTART
+
+To restart the TechBook:
+
+1. Open the system menu.
+2. Select Power.
+3. Select Restart.
+
+7. CUSTOMER SUPPORT
+
+Contact TechNova Customer Support if the laptop continues
+to malfunction after following the troubleshooting guide.

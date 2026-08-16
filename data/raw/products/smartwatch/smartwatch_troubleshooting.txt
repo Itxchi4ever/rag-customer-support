@@ -1,0 +1,67 @@
+TECHNOVA SMARTWATCH
+TROUBLESHOOTING GUIDE
+
+1. SMARTWATCH DOES NOT TURN ON
+
+If the SmartWatch does not turn on:
+
+1. Press and hold the power button for 10 seconds.
+2. Connect the SmartWatch to its magnetic charger.
+3. Allow the device to charge for at least 30 minutes.
+4. Try turning the device on again.
+
+If the SmartWatch still does not turn on, contact
+TechNova Customer Support.
+
+2. SMARTWATCH IS NOT CHARGING
+
+If the SmartWatch is not charging:
+
+1. Check that the charging cable is connected correctly.
+2. Make sure the magnetic connector is aligned properly.
+3. Clean the charging contacts with a dry, soft cloth.
+4. Try a different compatible power adapter.
+5. Allow the device to charge for at least 30 minutes.
+
+If the device still does not charge, contact TechNova
+Customer Support.
+
+3. BLUETOOTH CONNECTION PROBLEM
+
+If the SmartWatch cannot connect to your smartphone:
+
+1. Make sure Bluetooth is enabled on your smartphone.
+2. Keep the SmartWatch within Bluetooth range.
+3. Restart Bluetooth on your smartphone.
+4. Restart the SmartWatch.
+5. Open the TechNova mobile application and try pairing
+   the device again.
+
+4. BATTERY DRAINS QUICKLY
+
+If the battery drains faster than expected:
+
+1. Reduce screen brightness.
+2. Disable unnecessary notifications.
+3. Reduce continuous heart-rate monitoring if not required.
+4. Ensure that the SmartWatch software is up to date.
+
+5. FACTORY RESET
+
+If other troubleshooting methods do not resolve the issue,
+a factory reset may be performed through:
+
+Settings → System → Factory Reset
+
+Remember that a factory reset removes locally stored data.
+
+6. WHEN TO CONTACT SUPPORT
+
+Contact TechNova Customer Support if:
+
+- The SmartWatch does not turn on after charging.
+- The device does not charge after trying another compatible
+  charger.
+- Bluetooth pairing continues to fail.
+- The screen is damaged.
+- The device becomes unusually hot.

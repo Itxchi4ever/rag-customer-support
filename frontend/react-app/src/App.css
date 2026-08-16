@@ -1,0 +1,605 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  min-height: 100%;
+}
+
+body {
+  font-family:
+    Inter,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+  background: #f7f8fa;
+  color: #17191c;
+}
+
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+/* =========================
+   MAIN APP
+========================= */
+
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: #f7f8fa;
+}
+
+/* =========================
+   HEADER
+========================= */
+
+.header {
+  height: 76px;
+  padding: 0 32px;
+  background: #ffffff;
+  border-bottom: 1px solid #e6e8eb;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  flex-shrink: 0;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 21px;
+  font-weight: 700;
+  color: #17191c;
+}
+
+.header p {
+  margin: 4px 0 0;
+  font-size: 13px;
+  color: #737980;
+}
+
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.clear-button,
+.tickets-button,
+.refresh-button {
+  border: 1px solid #d9dce1;
+  background: #ffffff;
+  color: #44484e;
+  padding: 9px 14px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.15s ease;
+}
+
+.clear-button:hover,
+.tickets-button:hover,
+.refresh-button:hover {
+  background: #f3f4f6;
+}
+
+/* =========================
+   CHAT AREA
+========================= */
+
+.chat-container {
+  flex: 1;
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+
+  padding: 40px 24px 150px;
+}
+
+/* =========================
+   WELCOME SCREEN
+========================= */
+
+.welcome {
+  max-width: 620px;
+  margin: 100px auto 0;
+  text-align: center;
+}
+
+.welcome-icon {
+  width: 48px;
+  height: 48px;
+  margin: 0 auto 20px;
+
+  border-radius: 14px;
+
+  background: #17191c;
+  color: #ffffff;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  font-size: 24px;
+}
+
+.welcome h2 {
+  margin: 0 0 12px;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.welcome p {
+  margin: 0 auto;
+  max-width: 540px;
+
+  line-height: 1.6;
+  color: #6f747b;
+}
+
+/* =========================
+   SUGGESTIONS
+========================= */
+
+.suggestions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+
+  justify-content: center;
+
+  margin-top: 28px;
+}
+
+.suggestions button {
+  border: 1px solid #dfe2e6;
+
+  background: #ffffff;
+
+  padding: 10px 14px;
+
+  border-radius: 9px;
+
+  color: #44484e;
+
+  cursor: pointer;
+
+  transition:
+    background 0.15s ease,
+    border-color 0.15s ease;
+}
+
+.suggestions button:hover {
+  border-color: #bfc3c9;
+  background: #fafafa;
+}
+
+/* =========================
+   CHAT MESSAGES
+========================= */
+
+.messages {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.message-row {
+  display: flex;
+  width: 100%;
+}
+
+.message-row.user {
+  justify-content: flex-end;
+}
+
+.message-row.assistant {
+  justify-content: flex-start;
+}
+
+.message {
+  max-width: 75%;
+
+  padding: 13px 16px;
+
+  border-radius: 14px;
+
+  line-height: 1.55;
+
+  white-space: pre-wrap;
+
+  word-wrap: break-word;
+}
+
+.message-row.user .message {
+  background: #17191c;
+  color: #ffffff;
+
+  border-bottom-right-radius: 4px;
+}
+
+.message-row.assistant .message {
+  background: #ffffff;
+  border: 1px solid #e4e6e9;
+
+  color: #25282c;
+
+  border-bottom-left-radius: 4px;
+}
+
+.loading {
+  color: #777c82;
+}
+
+/* =========================
+   CHAT INPUT
+========================= */
+
+.input-area {
+  position: fixed;
+
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+  padding: 16px 24px 18px;
+
+  background: rgba(247, 248, 250, 0.96);
+
+  border-top: 1px solid #e6e8eb;
+
+  backdrop-filter: blur(8px);
+}
+
+.input-wrapper {
+  max-width: 850px;
+
+  margin: 0 auto;
+
+  display: flex;
+  align-items: flex-end;
+
+  gap: 10px;
+
+  padding: 8px;
+
+  background: #ffffff;
+
+  border: 1px solid #dfe2e6;
+
+  border-radius: 14px;
+}
+
+textarea {
+  flex: 1;
+
+  border: none;
+  outline: none;
+
+  resize: none;
+
+  padding: 10px;
+
+  min-height: 42px;
+  max-height: 120px;
+
+  color: #17191c;
+
+  background: transparent;
+
+  line-height: 1.4;
+}
+
+textarea::placeholder {
+  color: #9a9fa5;
+}
+
+.send-button {
+  align-self: flex-end;
+
+  border: none;
+
+  background: #17191c;
+
+  color: #ffffff;
+
+  padding: 10px 17px;
+
+  border-radius: 9px;
+
+  cursor: pointer;
+
+  transition: opacity 0.15s ease;
+}
+
+.send-button:hover:not(:disabled) {
+  opacity: 0.85;
+}
+
+.send-button:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.disclaimer {
+  margin: 8px auto 0;
+
+  max-width: 850px;
+
+  text-align: center;
+
+  font-size: 11px;
+
+  color: #8a8f95;
+}
+
+/* =========================
+   TICKETS PAGE
+========================= */
+
+.tickets-container {
+  width: 100%;
+  max-width: 900px;
+
+  margin: 0 auto;
+
+  padding: 40px 24px 80px;
+}
+
+.tickets-header {
+  display: flex;
+
+  align-items: center;
+
+  justify-content: space-between;
+
+  margin-bottom: 25px;
+}
+
+.tickets-header h2 {
+  margin: 0;
+
+  font-size: 28px;
+
+  font-weight: 700;
+}
+
+.tickets-header p {
+  margin: 6px 0 0;
+
+  color: #737980;
+}
+
+/* =========================
+   TICKET LIST
+========================= */
+
+.ticket-list {
+  display: flex;
+
+  flex-direction: column;
+
+  gap: 14px;
+}
+
+.ticket-card {
+  background: #ffffff;
+
+  border: 1px solid #e1e4e8;
+
+  border-radius: 12px;
+
+  padding: 20px;
+
+  transition:
+    box-shadow 0.15s ease,
+    border-color 0.15s ease;
+}
+
+.ticket-card:hover {
+  border-color: #d2d5da;
+
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.04);
+}
+
+.ticket-top {
+  display: flex;
+
+  align-items: flex-start;
+
+  justify-content: space-between;
+
+  gap: 20px;
+}
+
+.ticket-top h3 {
+  margin: 0 0 7px;
+
+  font-size: 17px;
+
+  font-weight: 700;
+}
+
+.ticket-product {
+  display: inline-block;
+
+  padding: 4px 9px;
+
+  border-radius: 6px;
+
+  background: #f1f2f4;
+
+  color: #555a61;
+
+  font-size: 12px;
+
+  text-transform: capitalize;
+}
+
+.ticket-issue {
+  margin: 18px 0 12px;
+
+  line-height: 1.5;
+
+  color: #30343a;
+}
+
+.ticket-date {
+  font-size: 12px;
+
+  color: #888d94;
+}
+
+/* =========================
+   STATUS DROPDOWN
+========================= */
+
+.status-select {
+  border: 1px solid #d9dce1;
+
+  padding: 8px 10px;
+
+  border-radius: 7px;
+
+  background: #ffffff;
+
+  color: #44484e;
+
+  cursor: pointer;
+
+  outline: none;
+}
+
+.status-select:focus {
+  border-color: #aeb3ba;
+}
+
+/* =========================
+   EMPTY STATE
+========================= */
+
+.empty-state {
+  padding: 60px;
+
+  text-align: center;
+
+  background: #ffffff;
+
+  border: 1px solid #e1e4e8;
+
+  border-radius: 12px;
+
+  color: #777c82;
+}
+
+/* =========================
+   RESPONSIVE
+========================= */
+
+@media (max-width: 650px) {
+
+  .header {
+    height: auto;
+
+    min-height: 70px;
+
+    padding: 12px 16px;
+
+    gap: 12px;
+  }
+
+  .header h1 {
+    font-size: 18px;
+  }
+
+  .header p {
+    font-size: 11px;
+  }
+
+  .header-actions {
+    gap: 5px;
+  }
+
+  .clear-button,
+  .tickets-button {
+    padding: 7px 9px;
+
+    font-size: 12px;
+  }
+
+  .chat-container {
+    padding: 24px 16px 150px;
+  }
+
+  .welcome {
+    margin-top: 60px;
+  }
+
+  .welcome h2 {
+    font-size: 25px;
+  }
+
+  .welcome p {
+    font-size: 14px;
+  }
+
+  .suggestions {
+    flex-direction: column;
+  }
+
+  .suggestions button {
+    width: 100%;
+  }
+
+  .message {
+    max-width: 88%;
+  }
+
+  .input-area {
+    padding: 12px;
+  }
+
+  .input-wrapper {
+    padding: 6px;
+  }
+
+  .send-button {
+    padding: 9px 13px;
+  }
+
+  .tickets-container {
+    padding: 24px 16px 60px;
+  }
+
+  .tickets-header {
+    align-items: flex-start;
+
+    gap: 15px;
+  }
+
+  .tickets-header h2 {
+    font-size: 24px;
+  }
+
+  .ticket-top {
+    flex-direction: column;
+
+    gap: 14px;
+  }
+
+  .status-select {
+    width: 100%;
+  }
+}

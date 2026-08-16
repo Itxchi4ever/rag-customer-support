@@ -1,0 +1,66 @@
+TECHNOVA TECHBUDS
+TROUBLESHOOTING GUIDE
+
+1. TECHBUDS ARE NOT CONNECTING
+
+If the TechBuds do not connect:
+
+1. Make sure Bluetooth is enabled.
+2. Keep the earbuds close to the smartphone.
+3. Place both earbuds inside the charging case.
+4. Remove the earbuds and try pairing again.
+5. Restart Bluetooth on the smartphone.
+
+If the problem continues, remove "TechNova TechBuds"
+from the phone's Bluetooth settings and pair them again.
+
+2. ONLY ONE EARBUD IS WORKING
+
+Place both earbuds inside the charging case.
+
+Wait for approximately 10 seconds and remove them again.
+
+Make sure both earbuds have sufficient battery.
+
+If the issue continues, reset the earbuds and pair them
+with the smartphone again.
+
+3. EARBUDS ARE NOT CHARGING
+
+Check that:
+
+- The earbuds are correctly placed in the charging case.
+- The charging contacts are clean.
+- The charging case has sufficient battery.
+- The charging cable is properly connected.
+
+4. SOUND QUALITY IS POOR
+
+Check the following:
+
+1. Increase the smartphone volume.
+2. Make sure the earbuds are positioned correctly.
+3. Keep the smartphone within Bluetooth range.
+4. Disconnect and reconnect the earbuds.
+
+5. RESETTING THE TECHBUDS
+
+To reset the TechBuds:
+
+1. Place both earbuds inside the charging case.
+2. Keep the case open.
+3. Press and hold the case button for approximately
+   10 seconds.
+4. The indicator will flash to confirm the reset.
+
+After resetting, pair the TechBuds with the smartphone again.
+
+6. WHEN TO CONTACT SUPPORT
+
+Contact TechNova Customer Support if:
+
+- An earbud does not turn on.
+- The earbuds do not charge.
+- Bluetooth pairing continues to fail.
+- The charging case does not charge.
+- The device becomes unusually hot.

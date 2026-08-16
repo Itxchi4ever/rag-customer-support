@@ -1,0 +1,54 @@
+TECHNOVA TECHBOOK
+TROUBLESHOOTING GUIDE
+
+1. LAPTOP DOES NOT TURN ON
+
+If the TechBook does not turn on:
+
+1. Connect the power adapter.
+2. Check that the charging indicator is active.
+3. Allow the laptop to charge for at least 30 minutes.
+4. Press and hold the power button for 10 seconds.
+5. Try turning the laptop on again.
+
+If the laptop still does not turn on, contact TechNova
+Customer Support.
+
+2. LAPTOP IS RUNNING SLOWLY
+
+Try the following:
+
+1. Close unnecessary applications.
+2. Restart the laptop.
+3. Check available storage.
+4. Install available system updates.
+5. Restart the laptop after updates are installed.
+
+3. WI-FI IS NOT WORKING
+
+1. Check that Wi-Fi is enabled.
+2. Restart Wi-Fi.
+3. Restart the laptop.
+4. Restart the wireless router.
+5. Try connecting to another network.
+
+4. BATTERY DRAINS QUICKLY
+
+Reduce screen brightness and close applications that
+are not required.
+
+Enable battery-saving mode.
+
+If battery performance remains unusually low, contact
+TechNova Customer Support.
+
+5. LAPTOP IS OVERHEATING
+
+Ensure that ventilation openings are not blocked.
+
+Use the laptop on a hard, flat surface.
+
+Close applications that use significant processing power.
+
+If the laptop becomes unusually hot, stop using it and
+contact TechNova Customer Support.

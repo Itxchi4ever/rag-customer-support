@@ -1,0 +1,50 @@
+[
+    {
+        "question": "How do I reset my smartwatch?",
+        "expected_product": "smartwatch"
+    },
+    {
+        "question": "My smartwatch is not turning on. What should I do?",
+        "expected_product": "smartwatch"
+    },
+    {
+        "question": "How do I charge my smartwatch?",
+        "expected_product": "smartwatch"
+    },
+    {
+        "question": "My Techbuds are not connecting to Bluetooth. What should I do?",
+        "expected_product": "techbuds"
+    },
+    {
+        "question": "How do I reset my Techbuds?",
+        "expected_product": "techbuds"
+    },
+    {
+        "question": "One of my Techbuds is not working. What should I do?",
+        "expected_product": "techbuds"
+    },
+    {
+        "question": "My Techbook is not turning on. What should I do?",
+        "expected_product": "techbook"
+    },
+    {
+        "question": "How do I charge my Techbook?",
+        "expected_product": "techbook"
+    },
+    {
+        "question": "How do I set up my Techbook?",
+        "expected_product": "techbook"
+    },
+    {
+        "question": "What is the warranty policy?",
+        "expected_product": null
+    },
+    {
+        "question": "What is the return policy?",
+        "expected_product": null
+    },
+    {
+        "question": "How can I contact customer support?",
+        "expected_product": null
+    }
+]

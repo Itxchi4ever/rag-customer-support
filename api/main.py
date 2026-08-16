@@ -1,11 +1,17 @@
+import os
 from typing import Literal
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
+from dotenv import load_dotenv
 
 from chatbot.conversation import Conversation
 from chatbot.ticket_manager import TicketManager
+
+
+# Load environment variables from .env
+load_dotenv()
 
 
 app = FastAPI(
@@ -15,10 +21,19 @@ app = FastAPI(
 )
 
 
-# React development server
+# --------------------------------------------------
+# CORS configuration
+# --------------------------------------------------
+
+frontend_url = os.getenv(
+    "FRONTEND_URL",
+    "http://localhost:5173"
+)
+
 origins = [
-    "http://localhost:5173",
+    frontend_url,
 ]
+
 
 app.add_middleware(
     CORSMiddleware,

@@ -1,6 +1,8 @@
 import { useState } from "react";
 import "./App.css";
 
+const API_URL = import.meta.env.VITE_API_URL;
+
 function App() {
   const [messages, setMessages] = useState([]);
   const [input, setInput] = useState("");
@@ -29,7 +31,7 @@ function App() {
     setLoading(true);
 
     try {
-      const response = await fetch("http://127.0.0.1:8000/chat", {
+      const response = await fetch(`${API_URL}/chat`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -53,7 +55,6 @@ function App() {
         },
       ]);
 
-      // Refresh tickets if a new ticket was created
       if (data.ticket) {
         loadTickets();
       }
@@ -82,7 +83,7 @@ function App() {
 
   const clearConversation = async () => {
     try {
-      await fetch("http://127.0.0.1:8000/conversation", {
+      await fetch(`${API_URL}/conversation`, {
         method: "DELETE",
       });
 
@@ -96,9 +97,7 @@ function App() {
     setTicketsLoading(true);
 
     try {
-      const response = await fetch(
-        "http://127.0.0.1:8000/tickets"
-      );
+      const response = await fetch(`${API_URL}/tickets`);
 
       if (!response.ok) {
         throw new Error("Failed to load tickets");
@@ -125,7 +124,7 @@ function App() {
   const updateTicketStatus = async (ticketId, status) => {
     try {
       const response = await fetch(
-        `http://127.0.0.1:8000/tickets/${ticketId}/status`,
+        `${API_URL}/tickets/${ticketId}/status`,
         {
           method: "PATCH",
           headers: {
@@ -181,7 +180,6 @@ function App() {
           </button>
         </div>
       </header>
-
 
       {/* TICKET DASHBOARD */}
       {showTickets ? (
@@ -359,7 +357,6 @@ function App() {
             )}
 
           </main>
-
 
           {/* INPUT */}
           <div className="input-area">

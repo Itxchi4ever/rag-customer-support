@@ -1,0 +1,10 @@
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: rag-customer-support-api
+    env_file:
+      - .env
+    ports:
+      - "8000:8000"
